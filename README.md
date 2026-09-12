@@ -1,5 +1,5 @@
-# Hampiness – Multi-Vendor Hampers E-Commerce System Analysis & Design (ISAD)
-An end-to-end Systems Analysis and Design (ISAD) case study for "Hampiness", a multi-vendor hampers marketplace platform. This repository covers root-cause problem identification, data flow modeling, object-oriented software design, static UI mockups for mobile and web, and 3-tier client/server architecture specifications.
+# Hampiness 
+An end-to-end Information Systems Analysis and Design (ISAD) case study for "Hampiness", a multi-vendor hampers marketplace platform. This repository covers root-cause problem identification, data flow modeling, object-oriented software design, UI mockups for mobile and web, and 3-tier client/server architecture specifications.
 
 ## Project Overview
 Hampiness connects buyers with multiple local gift and hampers vendors. It addresses common manual operational hurdles, including:
