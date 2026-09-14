@@ -60,7 +60,7 @@ Designed using a **3-Tier Client/Server Architecture**:
 * **Application Tier:** Server environment running Java and Swift business logic to handle transaction validations, bundle calculations, and push notifications.
 * **Data Tier:** Centralized MySQL relational database managing user records, product catalogs, and transactional order histories.
 
-## Contributors
+### Contributors
 * Aditya Naufal Erlangga
 * Arya Raka Pratama
 * Izaty Salsabila
