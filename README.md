@@ -11,7 +11,7 @@ Hampiness connects buyers with multiple local gift and hampers vendors. It addre
 The system specification outlines a comprehensive multi-stakeholder platform catering to **Customers (B2C)**, **Vendors (B2B)**, and **Internal Platform Administrators**.
 
 ## Problem Identification
-A **Fishbone Diagram** was formulated across people, process, vendor, information, and technology dimensions to identify the operational barriers affecting customer experience and vendor fulfillment efficiency.
+Fishbone Diagram was formulated across people, process, vendor, information, and technology dimensions to identify the operational barriers affecting customer experience and vendor fulfillment efficiency.
 
 ![Fishbone Diagram](Fishbone_Diagram.png)
 
